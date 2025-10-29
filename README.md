@@ -13,6 +13,5 @@
 [ata](https://purgatory.atabook.org/)ㅤㅤ[strawpage](https://filthysinnner.straw.page)ㅤㅤ[rentry](https://rentry.co/stcky)ㅤㅤ[pronounspage](https://en.pronouns.page/@sadcartoon)
 </div>
 <p align="center">
-  <a
 
   <img width="570" height="570" alt="image" src="https://github.com/user-attachments/assets/c6e9ba05-dcf2-4b9d-b18c-ab82b159919c" />
