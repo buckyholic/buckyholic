@@ -7,5 +7,6 @@
   &nbsp;<div align="center">
   [![Visits](https://komarev.com/ghpvc/?username=scoobynatural&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/scoobynatural)
 </div>
-
+<p align="center">
+    
 [ata](https://purgatory.atabook.org/)ㅤㅤ[strawpage](https://filthysinnner.straw.page)ㅤㅤ[rentry](https://rentry.co/stcky)ㅤㅤ[pronounspage](https://en.pronouns.page/@sadcartoon)
