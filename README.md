@@ -20,7 +20,7 @@
   <p align="center">
     <a
 
-  art credit to @adanmwere on discord.
+  credits to @adanmwere on discord.
   </div>
 
   <p align="center">
