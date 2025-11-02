@@ -14,7 +14,13 @@
 </div>
 <p align="center">
 
-  <img width="570" height="570" alt="image" src="https://github.com/user-attachments/assets/c6e9ba05-dcf2-4b9d-b18c-ab82b159919c" />
+  <img width="570" height="570" alt="image" src="https://files.catbox.moe/j85wiq.png" />
+  </div>
+
+  <p align="center">
+    <a
+
+  art credit to @adanmwere on discord.
   </div>
 
   <p align="center">
